@@ -171,7 +171,7 @@ def update_data(conn, df, changes):
 
 # Set the title that appears at the top of the page.
 """
-# :shopping_bags: Inventory tracker
+Pieper Dance Team Inventory tracker
 
 **Welcome to Freddy's Corner Store's intentory tracker!**
 This page reads and writes directly from/to our inventory database.
