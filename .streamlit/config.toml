@@ -3,7 +3,7 @@
 primaryColor = "#F63366"
 
 # The color for the main body of the app
-backgroundColor = "#FFFFFF"
+backgroundColor = "ccccff"
 
 # The color for the sidebar and input widgets
 secondaryBackgroundColor = "#F0F2F6"
