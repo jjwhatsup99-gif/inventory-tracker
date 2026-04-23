@@ -1,0 +1,25 @@
+[theme]
+# The primary color for interactive elements (buttons, checkboxes, etc.)
+primaryColor = "#F63366"
+
+# The color for the main body of the app
+backgroundColor = "#FFFFFF"
+
+# The color for the sidebar and input widgets
+secondaryBackgroundColor = "#F0F2F6"
+
+# The default text color
+textColor = "#262730"
+
+# The font family (options: "sans serif", "serif", or "monospace")
+font = "sans serif"
+
+[server]
+# Helpful if you are deploying the app
+headless = true
+port = 8501
+enableCORS = false
+
+[browser]
+# Removes the "Made with Streamlit" footer and header menu for a cleaner look
+gatherUsageStats = false
